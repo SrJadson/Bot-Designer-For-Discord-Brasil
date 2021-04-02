@@ -1,0 +1,13 @@
+$nomention
+$addReactions[❤;😍]
+$color[$random[1;99999]]
+$description[
+**🎉🎉Seja Muito Bem Vindo ao servidor!🎉🎉
+<@$authorID>**
+Mais Um Membro Total de Membros=$membersCount 
+Obrigado!
+$image[https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/source.gif]
+$thumbnail[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqWfqlBsmu0OBSrskGUYWKJBmM4kmkv3eKFX42_hl_vzhv_XhZg]
+]
+$footer[se divirta]
+$addTimestamp
