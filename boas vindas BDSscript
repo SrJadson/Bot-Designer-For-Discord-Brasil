@@ -1,3 +1,7 @@
+
+TÍTULO DO COMANDO:
+$onJoined[<ID DO SEU CHAT DE BOAS-VIDAS]
+
 $nomention
 $addReactions[❤;😍]
 $color[$random[1;99999]]
