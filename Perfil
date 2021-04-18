@@ -1,0 +1,50 @@
+Variable:
+idade 
+genero
+sobremim
+rg
+Valor = (em branco)
+
+
+
+Comando Ver Seu Perfil:
+$nomention
+$title[Seu Perfil]
+$description[
+Seu Nome: $username
+
+Sua Idade: $getUserVar[idade] 
+
+Gênero: $getUserVar[genero]
+
+Sobre Mim: $getUserVar[sobremim]
+ 
+RG: $getUserVar[rg]
+]
+$footer[dúvidas use d-perfhelp]
+$color[$random[111111;999999]]
+---------------------------------
+Comando Set-Idade
+$nomention
+$setUserVar[idade;$message]
+SETADO use (prefix)perfil
+--------------------------------
+Comando Set-Gênero 
+$nomention
+$setUserVar[genero;$message]  
+SETADO use (prefix)perfil
+--------------------------------
+Comando Set-Sobremim
+$nomention
+$setUserVar[sobremim;$message] 
+
+SETADO use (prefix)perfil
+--------------------------------
+$nomention 
+$setUserVar[rg;$message]
+ SETADO use (prefix)perfil
+=====/=====/======/====/=======
+☆ NÃO FAÇA VÍDEO USANDO ESSES CÓDIGOS SEM MINHA
+PERMISSÃO ☆
+
+Peça Permissão: https://discord.gg/cZJYFzyvBz
