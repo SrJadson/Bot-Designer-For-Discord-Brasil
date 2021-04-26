@@ -1,0 +1,16 @@
+$nomention
+$onlyIf[$checkContains[$message;{nomes de seus comandos}]==true;]
+
+$useChannel[{ID CHAT LOG}]
+
+$title[**Log**]
+$description[
+**Usuário:**`$username[$authorID]#$discriminator[$authorID]`
+**Comando:** `$message`
+**Servidor:**`$serverName[$guildID]`
+**Server ID:** `$guildID`
+**Canal:** `$channelName[$channelID]`
+]
+$color[ffff]
+$addTimestamp
+$footer[Sistema]
