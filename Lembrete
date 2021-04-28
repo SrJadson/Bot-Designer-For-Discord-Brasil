@@ -1,0 +1,7 @@
+$nomention
+$description[
+lembrete setado! para $message[2]]
+$editIn[$message[2];estou quase relembrando seu lembrete ⏰!]
+$editEmbedIn[$message[1];RELEMBRADO;Seu lembrete é:$message[3] $message[4] $message[5] $message[6] $message[7] $message[8] $message[9] $message[10] $message[11] $message[12] $message[13] $message[14] $message[15] $message[16] $message[17] $message[18] $message[19] $message[20] $message[21] $message[22] $message[23] $message[24] $message[25] $message[26] $message[27] $message[28] $message[29] $message[30] $message[31];use z-lembrete para definir um novo lembrete!;ffff]
+$onlyIf[$checkContains[$message[1];1s;2s;3s;4s;5s;6s;7s;8s;9s;10s;11s;12s;13s;14s;15s;16s;17s;18s;19s;20s;21s;22s;23s;24s;25s;26s;27s;28s;29s;30s;31s;32s;33s;34s;35s;36s;37s;38s;39s;40s;41s;42s;43s;44s;45s;46s;47s;48s;49s;50s;51s;52s;53s;54s;55s;56s;57s;58s;59s;60s;1m;2m;3m;4m;5m;6m;7m;8sm;9m;10m;11m;12m;13m;14m;15m;16m;17m;18m;19m;20m;21m;22m;23m;24m;25m;26m;27m;28m;29m;30m;31m;32m;33m;34m;35m;36m;37m;38m;39m;40m]!=false;<:errado:834794827811520624>| você ultrapassou o tempo máximo que é __40 Minutos__]
+$reply
